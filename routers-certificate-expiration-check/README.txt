@@ -1,3 +1,9 @@
+USAGE
+ ====================
+python script.py <SSH_USER> <SSH_PWD> <ROUTER_IPs_LIST>
+
+E.g. python script.py admin adm_pwd ip_list.txt
+
  ====================
 Script structure:
 
